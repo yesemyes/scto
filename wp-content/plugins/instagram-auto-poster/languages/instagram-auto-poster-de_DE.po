@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-07-12 15:25+0300\n"
+"PO-Revision-Date: 2016-07-12 15:29+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: instagram-auto-poster\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"Last-Translator: \n"
+"Language: de\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: instagram-auto-poster.php:50
+msgid "Settings - Instagram Auto Poster"
+msgstr "Einstellungen - Instagram Auto Poster"
+
+#: instagram-auto-poster.php:51 instagram-auto-poster.php:61
+#: instagram-auto-poster.php:194
+msgid "Instagram Auto Poster"
+msgstr "Instagram Auto Poster"
+
+#: instagram-auto-poster.php:62
+msgid "The plugin allows to publish in your account instagram your posts."
+msgstr "Dieser Plugin ermöglicht Ihnen Ihre WordPress Posts automatisch bei Instagram zu veröffentlichen."
+
+#: instagram-auto-poster.php:71
+msgid "Save Changes"
+msgstr "Einstellungen speichern"
+
+#: instagram-auto-poster.php:81
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: instagram-auto-poster.php:86
+msgid "Instagram login"
+msgstr "Login für Instagram"
+
+#: instagram-auto-poster.php:102
+msgid "Instagram password"
+msgstr "Passwort für Instagram"
+
+#: instagram-auto-poster.php:118
+msgid "Plugin status"
+msgstr "Plugin-Status"
+
+#: instagram-auto-poster.php:126
+msgid "Send new posts in instagram when publishing"
+msgstr "Neue Posts bei Veröffentlichung an Instagram senden"
+
+#: instagram-auto-poster.php:127
+msgid "Do not send automatically"
+msgstr "Nicht automatisch senden"
+
+#: instagram-auto-poster.php:135
+msgid "To send a link to a post?"
+msgstr "Link zum Post mitsenden?"
+
+#: instagram-auto-poster.php:143 instagram-auto-poster.php:160
+#: instagram-auto-poster.php:177
+msgid "Enable"
+msgstr "Einschalten"
+
+#: instagram-auto-poster.php:144 instagram-auto-poster.php:161
+#: instagram-auto-poster.php:178
+msgid "Disable"
+msgstr "Ausschalten"
+
+#: instagram-auto-poster.php:152
+msgid "Use category as a hashtag?"
+msgstr "Kategorien als Hashtag benutzen?"
+
+#: instagram-auto-poster.php:169
+msgid "Use tags as a hashtag?"
+msgstr "Tags als Hashtag benutzen?"
+
+#: instagram-auto-poster.php:206 instagram-auto-poster.php:212
+msgid "Resend to instagram"
+msgstr "Nochmal absenden"
+
+#: instagram-auto-poster.php:209 instagram-auto-poster.php:356
+msgid "Sending..."
+msgstr "Wird gesendet…"
+
+#: instagram-auto-poster.php:213 instagram-auto-poster.php:267
+#: instagram-auto-poster.php:276
+msgid "Authorisation error"
+msgstr "Fehler bei der Authentifizierung"
+
+#: instagram-auto-poster.php:215
+msgid "Not yet sent..."
+msgstr "Noch nicht angearbeitet"
+
+#: instagram-auto-poster.php:223
+msgid "Posted on"
+msgstr "Gepostet in"
+
+#: instagram-auto-poster.php:360
+msgid "Successfully sent"
+msgstr "Erfolgreich gesendet"
+
+#: instagram-auto-poster.php:362
+msgid "Error:"
+msgstr "Fehler:"
